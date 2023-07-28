@@ -1,4 +1,4 @@
-package com.example.banka_hack.ui
+package com.example.banka_hack.ui.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
