@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BankaHack">
         <activity
+            android:name=".ui.activities.SigninSignupActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
